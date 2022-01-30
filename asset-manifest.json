@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NoteDown/static/css/main.28e3ebcb.chunk.css",
+    "main.js": "/NoteDown/static/js/main.48e535d1.chunk.js",
+    "main.js.map": "/NoteDown/static/js/main.48e535d1.chunk.js.map",
+    "runtime-main.js": "/NoteDown/static/js/runtime-main.6cfe7b07.js",
+    "runtime-main.js.map": "/NoteDown/static/js/runtime-main.6cfe7b07.js.map",
+    "static/js/2.3d9874e3.chunk.js": "/NoteDown/static/js/2.3d9874e3.chunk.js",
+    "static/js/2.3d9874e3.chunk.js.map": "/NoteDown/static/js/2.3d9874e3.chunk.js.map",
+    "index.html": "/NoteDown/index.html",
+    "static/css/main.28e3ebcb.chunk.css.map": "/NoteDown/static/css/main.28e3ebcb.chunk.css.map",
+    "static/js/2.3d9874e3.chunk.js.LICENSE.txt": "/NoteDown/static/js/2.3d9874e3.chunk.js.LICENSE.txt",
+    "static/media/noteLogo.2adf5dcb.png": "/NoteDown/static/media/noteLogo.2adf5dcb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cfe7b07.js",
+    "static/js/2.3d9874e3.chunk.js",
+    "static/css/main.28e3ebcb.chunk.css",
+    "static/js/main.48e535d1.chunk.js"
+  ]
+}
